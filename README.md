@@ -7,4 +7,4 @@ Solving an equation of degree 4 with iterative methods: Comparing the performanc
 USAGE
 ===
 
-./105polar _number_ : represents the number of the method to be used from 1 to 4
+    ./105polar _number_ : represents the number of the method to be used from 1 to 4
